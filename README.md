@@ -23,3 +23,6 @@ In Hotel is located at vul. Molodizhna, 31 in Kamianets-Podilskyi, Ukraine. It p
 
 ## Notes
 The page explicitly flags several details as unconfirmed or to be verified directly with the hotel, including pool schedules/temperatures, SPA pricing and procedures, exact room count, restaurant/bar menus and hours, and banquet hall capacity.
+
+## Forms
+Connected to HotelOS (`kp-inhotel`): `stay-request` (room type select), `sauna-request` (сауна / хамам / парова кімната), `conference-request`. Script and contract: `../shared/FORMS.md`.
